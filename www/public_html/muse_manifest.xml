@@ -1,0 +1,135 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ronnieblue.com,www.ronnieblue.com" resolutions="1x" timestamp="1500858573135">
+  <folder name="css">
+    <file name="site_global.css" crc="49035656"/>
+    <file name="index.css" crc="4431196" ref="index"/>
+    <file name="nomq_index.css" crc="3881877857" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background_01.jpg" crc="106128427" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="3789747321" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_rollover.png" crc="530388219" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="personal_photo_01.jpg" crc="315112244" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="personal_photo_02.jpg" crc="4253394334" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_01-u1464-fr.png" crc="316845384" ref="index"/>
+    <file name="client_01.png" crc="8772713" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_02-u1484-fr.png" crc="4069861505" ref="index"/>
+    <file name="client_02.png" crc="415560751" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_03-u1490-fr.png" crc="203592035" ref="index"/>
+    <file name="client_03.png" crc="3776959281" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_02.jpg" crc="217094556" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="work_01_t.jpg" crc="4272408845" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="work_01_t-u1638-r-fr.png" crc="3911466354" ref="index"/>
+    <file name="work_02_t.jpg" crc="159118682" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="work_02_t-u1671-r-fr.png" crc="3769334124" ref="index"/>
+    <file name="work_03_t.jpg" crc="4291585824" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="work_03_t-u1677-r-fr.png" crc="4096363525" ref="index"/>
+    <file name="work_01_b.jpg" crc="161682836" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="work_02_b.jpg" crc="218121613" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="work_03_b.jpg" crc="226048266" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="up.png" crc="4242388324" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_01-u1464-r-fr.png" crc="399813352" ref="index"/>
+    <file name="client_02-u1484-r-fr.png" crc="4114354262" ref="index"/>
+    <file name="client_03-u1490-r-fr.png" crc="3903386104" ref="index"/>
+    <file name="background_02-u1846-fr.jpg" crc="4070165615" ref="index"/>
+    <file name="work_01_t-u1638-r-fr2.png" crc="3758157541" ref="index"/>
+    <file name="work_02_t-u1671-r-fr2.png" crc="3892389116" ref="index"/>
+    <file name="work_03_t-u1677-r-fr2.png" crc="192432106" ref="index"/>
+    <file name="client_01-u1464-r-fr2.png" crc="273793215" ref="index"/>
+    <file name="client_02-u1484-r-fr2.png" crc="3932955563" ref="index"/>
+    <file name="client_03-u1490-r-fr2.png" crc="398280974" ref="index"/>
+    <file name="work_01_t-u1638-r-fr3.png" crc="489149284" ref="index"/>
+    <file name="work_02_t-u1671-r-fr3.png" crc="3942546800" ref="index"/>
+    <file name="work_03_t-u1677-r-fr3.png" crc="4266973935" ref="index"/>
+    <file name="work_01_b-u1630-fr.jpg" crc="237358515" ref="index"/>
+    <file name="work_02_b-u1674-fr.jpg" crc="3855430265" ref="index"/>
+    <file name="work_03_b-u1680-fr.jpg" crc="372130367" ref="index"/>
+    <file name="client_01-u1464-r-fr3.png" crc="201290196" ref="index"/>
+    <file name="client_02-u1484-r-fr3.png" crc="6370083" ref="index"/>
+    <file name="client_03-u1490-r-fr3.png" crc="458372306" ref="index"/>
+    <file name="work_01_b-u4539-fr.jpg" crc="4085930966" ref="index"/>
+    <file name="work_02_b-u4561-fr.jpg" crc="30759374" ref="index"/>
+    <file name="work_03_b-u4591-fr.jpg" crc="418232585" ref="index"/>
+    <file name="personal_photo_02-u1228-r-fr.jpg" crc="4260519254" ref="index"/>
+    <file name="client_01-u1464-r-fr4.png" crc="464278836" ref="index"/>
+    <file name="client_02-u1484-r-fr4.png" crc="4000777445" ref="index"/>
+    <file name="client_03-u1490-r-fr4.png" crc="3984369957" ref="index"/>
+    <file name="work_01_b-u4539-fr2.jpg" crc="3977384939" ref="index"/>
+    <file name="work_02_b-u4561-fr2.jpg" crc="5225432" ref="index"/>
+    <file name="background_02-u1846-fr2.jpg" crc="3761762617" ref="index"/>
+    <file name="work_03_b-u4591-fr2.jpg" crc="4118452890" ref="index"/>
+  </folder>
+  <file name="index.html" crc="372290999" seo="true" mt="1500858510020" redirect="true"/>
+</manifest>
